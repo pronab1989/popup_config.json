@@ -2,6 +2,6 @@
   "show": true,
   "title": "📢 Scheduled Maintenance",
   "message": "The app will be temporarily unavailable for maintenance.",
-  "start_time": "2025-08-04T18:30:00+05:30",  // 6:30 PM IST
+  "start_time": "2025-08-04T18:45:00+05:30",  // 6:30 PM IST
   "end_time": "2025-08-04T19:30:00+05:30"     // 7:30 PM IST
 }
